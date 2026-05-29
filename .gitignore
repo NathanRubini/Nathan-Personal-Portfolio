@@ -22,3 +22,24 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Brainstorming session files
+.superpowers/
+
+# Superpowers plans/specs (internal tooling)
+docs/superpowers/
+
+# Raw source assets at repo root (copied to public/ during build setup)
+Nathan\ Rubini\ Resume.docx
+Nathan\ Rubini-542.jpg
+Profile.pdf
+5\ \(1\).png
+BCG_Corporate_Logo.svg.png
+Bell_logo.svg
+Loblaws-scaled.webp
+lauriersalesassociation_logo.jpg
+donor_image.png
+eNgoDCpG4U6oyzmoxxTOYwMm.avif
+download.htm
+my-portfolio/
+design-system/

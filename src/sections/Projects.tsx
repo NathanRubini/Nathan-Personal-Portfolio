@@ -28,18 +28,10 @@ export function Projects() {
 
         <div className="flex justify-center gap-4 mt-0">
           <a
-            href="https://hack-the-globe-seven.vercel.app/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="px-5 py-2.5 text-sm font-medium rounded-xl bg-slate-900 text-white hover:bg-slate-700 transition-colors duration-150 cursor-pointer"
-          >
-            Live Demo ↗
-          </a>
-          <a
             href="https://github.com/CooperMcKay/Hack-the-Globe"
             target="_blank"
             rel="noopener noreferrer"
-            className="px-5 py-2.5 text-sm font-medium rounded-xl border border-slate-300 text-slate-700 hover:border-slate-500 transition-colors duration-150 cursor-pointer"
+            className="px-5 py-2.5 text-sm font-medium rounded-xl bg-slate-900 text-white hover:bg-slate-700 transition-colors duration-150 cursor-pointer"
           >
             GitHub ↗
           </a>
